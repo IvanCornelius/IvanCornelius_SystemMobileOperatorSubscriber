@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/open_file.png</file>
+        <file>icon/sort.png</file>
+        <file>icon/user_add.png</file>
+        <file>icon/user_delete.png</file>
+        <file>icon/user_edit.png</file>
+        <file>icon/user_info.png</file>
+        <file>icon/user_search.png</file>
+        <file>icon/plot.png</file>
+    </qresource>
+</RCC>
